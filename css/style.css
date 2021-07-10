@@ -1,0 +1,61 @@
+body {
+  background-color: rgb(241, 244, 253);
+
+}   
+
+ .heading {
+    width: 50%;
+    margin: 30px auto;
+    text-align: center;
+    color: rgb(18, 16, 165);
+    background: lavender;
+    border: 2px solid rgb(255, 0, 242);
+    border-radius: 20px;
+
+}
+
+form {
+    width: 50%;
+    margin: 30px auto;
+    border-radius: 5px;
+    padding: 10px;
+    background:  lavender;
+    border: 1px solid rgb(255, 0, 242);
+}
+
+.task_input{
+    width: 73%;
+    height: 15px;
+    padding: 10px;
+    border: 1px solid rgb(255, 0, 242);
+}
+
+.add_btn{
+    height: 39px;
+    background:lavender;
+    color: rgb(18, 16, 165);
+    border:1px solid rgb(255, 0, 242);
+    border-radius: 5px;
+    padding: 5px 20px;
+}
+
+table{
+    width: 50%;
+    margin:30px auto;
+    border-collapse: collapse;
+}
+
+tr{
+    border-bottom: 1px solid rgb(255, 0, 242);
+}
+
+th{
+    font-size: 19px;
+    color: black;
+}
+
+th,td{
+    border: none;
+    height: 30px;
+    padding: 2px;
+}
